@@ -4,4 +4,4 @@
 ## test
 - test 사진
 - 
-<img src="./test/test.png"/>
+<img src="./IRI_0613 8+8.jpg"/>
